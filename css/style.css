@@ -290,7 +290,6 @@ a {
   background-position: center;
   background-size: cover;
   width: 90%;
-  max-height: 100%;
 }
 .banner-block img {
   width: 92%;
@@ -330,7 +329,7 @@ a {
   background-image: url(../img/png/3-services.png);
 }
 .services-card:nth-child(4) {
-  height: 533px;
+  height: 527px;
   background-image: url(../img/png/4-services.png);
 }
 .services-card-contant {
@@ -363,7 +362,7 @@ a {
 .arrow-right {
   margin-left: 29px;
 }
-.services-card-link:hover{
+.services-card-link:hover {
   margin-left: 20px;
 }
 
